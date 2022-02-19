@@ -1,4 +1,2 @@
 <?php
-echo "yes git is working";
-echo "push worked";
-echo "pull worked";
+echo "this is main branch";
